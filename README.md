@@ -1,5 +1,5 @@
 # Coding-Katas
----
+--
 ## Members
 #### Ray, Ryan, Nathan, Can, Eric, Ivan, Shiva
 
@@ -8,7 +8,7 @@
 #### Google-Chess [Ryan, Nate, Ivan]
 
 # Completed
--
+--
 |Date    |Source    |Problem         |Contributors              |
 |:------:|:--------:|:--------------:|:------------------------:|
 |02/16/17|HackerRank|Repetitive Ksums|Ray, Ryan, Nate, Can, Eric|
