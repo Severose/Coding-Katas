@@ -15,4 +15,4 @@
 |Date    |Source    |Problem         |Contributors              |
 |:------:|:--------:|:--------------:|:------------------------:|
 |02/16/17|HackerRank|Repetitive Ksums|Ray, Ryan, Nate, Can, Eric|
-|12/22/17|Google    |Substrings      |Ray, Nate, Eric           |
+|12/22/16|Google    |Substrings      |Ray, Nate, Eric           |
